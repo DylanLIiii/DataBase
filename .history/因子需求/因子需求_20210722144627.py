@@ -1,6 +1,6 @@
 
 
-def get_statement(trade_date,model):
+def get_statement(trade_date):
     
     import pandas as pd 
     import re 
@@ -21,7 +21,7 @@ def get_statement(trade_date,model):
         axis = 1,
     )
     
-    factor_list = 
+    
     
     
     
