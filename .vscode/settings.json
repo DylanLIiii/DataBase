@@ -3,5 +3,6 @@
         "output",
         "quantile",
         "signal"
-    ]
+    ],
+    "jupyter.jupyterServerType": "local"
 }
